@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EZTUCUyd9kk=",
+  "dgSpecHash": "dBAOWuzRiOw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Reyner\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\Reyner\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",

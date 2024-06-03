@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reyner\\source\\repos\\crud-school\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reyner\\source\\repos\\crud-school\\Domain\\Domain.csproj": {
+    "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Reyner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reyner\\AppData\\Roaming\\NuGet\\NuGet.Config",

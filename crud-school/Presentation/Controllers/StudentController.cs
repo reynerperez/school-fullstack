@@ -48,7 +48,7 @@ namespace Presentation.Controllers
             return Ok(id);
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("{Id}")]
         public async Task<IActionResult> UpdateStudent([FromBody] UpdateStudentCommand command)
         {
             var resultId = await _mediator.Send(command);

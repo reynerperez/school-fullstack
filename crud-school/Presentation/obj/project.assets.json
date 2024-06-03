@@ -1368,11 +1368,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Presentation.csproj",
+      "projectPath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Presentation.csproj",
       "packagesPath": "C:\\Users\\Reyner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\obj\\",
+      "outputPath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Reyner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1390,11 +1390,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Application.csproj"
+            "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Application.csproj"
             },
-            "C:\\Users\\Reyner\\source\\repos\\crud-school\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

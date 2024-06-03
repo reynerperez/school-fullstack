@@ -1,97 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Reyner\\source\\repos\\crud-school\\",
+  "WorkspaceRootPath": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\student\\commands\\create\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\commands\\create\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\student\\commands\\update\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\commands\\update\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\professor\\commands\\create\\createprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\professor\\commands\\create\\createprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\presentation\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\presentation\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\professor\\commands\\update\\updateprofessorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\professor\\commands\\update\\updateprofessorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\presentation\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\student\\commands\\update\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\commands\\update\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\professor\\commands\\update\\updateprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\professor\\commands\\update\\updateprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\professor\\commands\\create\\createprofessorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\professor\\commands\\create\\createprofessorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\student\\commands\\update\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\commands\\update\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A03985-3AAE-4219-8D9F-B243358F1F3A}|Domain\\Domain.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A03985-3AAE-4219-8D9F-B243358F1F3A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A03985-3AAE-4219-8D9F-B243358F1F3A}|Domain\\Domain.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\domain\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A03985-3AAE-4219-8D9F-B243358F1F3A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\presentation\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\commands\\create\\creategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\professor\\commands\\create\\createprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\professor\\commands\\create\\createprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\student\\commands\\create\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\commands\\create\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6AACF90-1C6B-4D08-8DA8-B98E7F189238}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\commands\\create\\creategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\commands\\create\\creategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\commands\\create\\creategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\commands\\create\\creategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\commands\\create\\creategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\commands\\update\\updategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\commands\\update\\updategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\commands\\update\\updategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\commands\\delete\\deletegradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\commands\\delete\\deletegradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\commands\\delete\\deletegradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\queries\\get\\getgradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\queries\\get\\getgradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\queries\\get\\getgradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\queries\\get\\getgradequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\queries\\get\\getgradequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\queries\\get\\getgradequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\student\\queries\\get\\getstudentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\student\\queries\\get\\getstudentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\queries\\get\\getstudentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\student\\queries\\get\\getstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\student\\queries\\get\\getstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\queries\\get\\getstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\commands\\delete\\deletegradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\commands\\delete\\deletegradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\commands\\delete\\deletegradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\student\\commands\\delete\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\student\\commands\\delete\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\commands\\delete\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A03985-3AAE-4219-8D9F-B243358F1F3A}|Domain\\Domain.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\domain\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A03985-3AAE-4219-8D9F-B243358F1F3A}|Domain\\Domain.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\domain\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A03985-3AAE-4219-8D9F-B243358F1F3A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\commands\\update\\updategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\commands\\update\\updategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\commands\\update\\updategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\queries\\list\\getlistgradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\queries\\list\\getlistgradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\queries\\list\\getlistgradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\grade\\queries\\list\\getlistgradequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\grade\\queries\\list\\getlistgradequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\grade\\queries\\list\\getlistgradequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\source\\repos\\crud-school\\application\\student\\queries\\list\\getliststudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|c:\\users\\reyner\\development\\school-fullstack\\crud-school\\application\\student\\queries\\list\\getliststudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AC2BF-B2A2-48C1-8CAB-DF8D3E67DD57}|Application\\Application.csproj|solutionrelative:application\\student\\queries\\list\\getliststudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,275 +126,337 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProfessorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Update\\UpdateProfessorHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Professor\\Commands\\Update\\UpdateProfessorHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Update\\UpdateProfessorHandler.cs",
+              "RelativeToolTip": "Application\\Professor\\Commands\\Update\\UpdateProfessorHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:40:00.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateProfessorHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
-              "RelativeToolTip": "Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Update\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Student\\Commands\\Update\\UpdateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Update\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "Application\\Student\\Commands\\Update\\UpdateStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:39:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProfessorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Update\\UpdateProfessorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Professor\\Commands\\Update\\UpdateProfessorCommand.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Update\\UpdateProfessorCommand.cs",
+              "RelativeToolTip": "Application\\Professor\\Commands\\Update\\UpdateProfessorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:39:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Domain\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:36:07.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Entities\\Professor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Professor.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Entities\\Professor.cs",
+              "RelativeToolTip": "Domain\\Entities\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:35:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProfessorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Create\\CreateProfessorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Professor\\Commands\\Create\\CreateProfessorCommand.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Create\\CreateProfessorCommand.cs",
+              "RelativeToolTip": "Application\\Professor\\Commands\\Create\\CreateProfessorCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:34:21.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProfessorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
+              "RelativeToolTip": "Application\\Professor\\Commands\\Create\\CreateProfessorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T06:25:58.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProfessorController.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Controllers\\ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Controllers\\ProfessorController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\ProfessorController.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Controllers\\ProfessorController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\ProfessorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T03:16:33.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\appsettings.json",
               "RelativeToolTip": "Presentation\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-03T04:21:44.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T04:21:44.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Program.cs",
               "RelativeToolTip": "Presentation\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T04:21:26.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T04:21:26.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UpdateStudentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Commands\\Update\\UpdateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Update\\UpdateStudentHandler.cs",
               "RelativeDocumentMoniker": "Application\\Student\\Commands\\Update\\UpdateStudentHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Commands\\Update\\UpdateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Update\\UpdateStudentHandler.cs",
               "RelativeToolTip": "Application\\Student\\Commands\\Update\\UpdateStudentHandler.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA2wBoAAAAgAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T03:17:47.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "DeleteStudentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Commands\\Delete\\DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Delete\\DeleteStudentHandler.cs",
               "RelativeDocumentMoniker": "Application\\Student\\Commands\\Delete\\DeleteStudentHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Commands\\Delete\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Delete\\DeleteStudentHandler.cs",
               "RelativeToolTip": "Application\\Student\\Commands\\Delete\\DeleteStudentHandler.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:16:24.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:16:24.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "CreateStudentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Commands\\Create\\CreateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Create\\CreateStudentHandler.cs",
               "RelativeDocumentMoniker": "Application\\Student\\Commands\\Create\\CreateStudentHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Commands\\Create\\CreateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Commands\\Create\\CreateStudentHandler.cs",
               "RelativeToolTip": "Application\\Student\\Commands\\Create\\CreateStudentHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T03:13:34.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "UpdateGradeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeHandler.cs",
               "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Update\\UpdateGradeHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeHandler.cs",
               "RelativeToolTip": "Application\\Grade\\Commands\\Update\\UpdateGradeHandler.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:12:14.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:12:14.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Grade.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Domain\\Entities\\Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Entities\\Grade.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Grade.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Domain\\Entities\\Grade.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Domain\\Entities\\Grade.cs",
               "RelativeToolTip": "Domain\\Entities\\Grade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:11:54.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:11:54.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "UpdateGradeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeCommand.cs",
               "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Update\\UpdateGradeCommand.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeCommand.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Update\\UpdateGradeCommand.cs",
               "RelativeToolTip": "Application\\Grade\\Commands\\Update\\UpdateGradeCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:11:21.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:11:21.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "DeleteGradeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeHandler.cs",
               "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Delete\\DeleteGradeHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeHandler.cs",
               "RelativeToolTip": "Application\\Grade\\Commands\\Delete\\DeleteGradeHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:10:15.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DeleteGradeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
-              "RelativeToolTip": "Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:09:53.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateGradeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
-              "RelativeToolTip": "Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:08:32.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateGradeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
-              "RelativeToolTip": "Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:07:47.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetGradeQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
-              "RelativeToolTip": "Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:04:53.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:10:15.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "GetListStudentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
-              "RelativeToolTip": "Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Title": "DeleteGradeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
+              "RelativeToolTip": "Application\\Grade\\Commands\\Delete\\DeleteGradeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:04:03.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetListGradeQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
-              "RelativeToolTip": "Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:02:16.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetListGradeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
-              "RelativeToolTip": "Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:01:57.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:09:53.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "CreateGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
+              "RelativeToolTip": "Application\\Grade\\Commands\\Create\\CreateGradeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:08:32.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateGradeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
+              "RelativeToolTip": "Application\\Grade\\Commands\\Create\\CreateGradeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:07:47.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetGradeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
+              "RelativeToolTip": "Application\\Grade\\Queries\\Get\\GetGradeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:04:53.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetListStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
+              "RelativeToolTip": "Application\\Student\\Queries\\List\\GetListStudentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:04:03.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetListGradeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
+              "RelativeToolTip": "Application\\Grade\\Queries\\List\\GetListGradeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:02:16.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetListGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
+              "RelativeToolTip": "Application\\Grade\\Queries\\List\\GetListGradeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:01:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "GetStudentQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentQuery.cs",
               "RelativeDocumentMoniker": "Application\\Student\\Queries\\Get\\GetStudentQuery.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentQuery.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentQuery.cs",
               "RelativeToolTip": "Application\\Student\\Queries\\Get\\GetStudentQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:01:10.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:01:10.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "GetGradeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeHandler.cs",
               "RelativeDocumentMoniker": "Application\\Grade\\Queries\\Get\\GetGradeHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Grade\\Queries\\Get\\GetGradeHandler.cs",
               "RelativeToolTip": "Application\\Grade\\Queries\\Get\\GetGradeHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T03:00:33.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:00:33.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GradeController.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Controllers\\GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Controllers\\GradeController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\GradeController.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Controllers\\GradeController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\GradeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,29 +465,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Presentation\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Presentation\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAACEAAACAmZmZmdkowC4AAAAMAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T02:36:19.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "GetStudentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentHandler.cs",
               "RelativeDocumentMoniker": "Application\\Student\\Queries\\Get\\GetStudentHandler.cs",
-              "ToolTip": "C:\\Users\\Reyner\\source\\repos\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentHandler.cs",
+              "ToolTip": "C:\\Users\\Reyner\\development\\school-fullstack\\crud-school\\Application\\Student\\Queries\\Get\\GetStudentHandler.cs",
               "RelativeToolTip": "Application\\Student\\Queries\\Get\\GetStudentHandler.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:12:33.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T23:12:33.529Z"
             }
           ]
         }
